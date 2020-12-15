@@ -22,3 +22,5 @@ class SubCorridor:
         l_cost = self.light_cost if self.Light else 0
         self.cost = a_cost + l_cost
         return self.cost
+    def new_test:
+        return true
